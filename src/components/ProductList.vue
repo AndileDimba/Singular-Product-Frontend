@@ -151,7 +151,7 @@ export default {
   max-width: fit-content;
   margin-left: auto;
   margin-right: auto;
-  color:red;
+  color: red;
   font-weight: bold;
   font-size: 20px;
   margin-top: 50px;
@@ -160,7 +160,7 @@ export default {
   border: 1px solid #ccc;
   border-radius: 8px;
   background-color: #f8d7da;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
   width: 80%;
   margin-bottom: 20px;
   font-family: Arial, Helvetica, sans-serif;
@@ -184,7 +184,7 @@ export default {
   position: relative;
   top: 50%;
   transform: translateY(-50%);
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
   background-color: transparent;
   transition: transform 0.2s ease;
   box-sizing: border-box;
